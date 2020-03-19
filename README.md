@@ -242,9 +242,10 @@ salvato
 
 ### 2.3 FSM
 
-```
-Figura 2
-```
+![GitHub Logo](Screanshot(19).png)
+Format: ![Alt Text](url)
+
+
 Per rendere più chiaro il grafo rappresentante la macchina a stati finiti sono stati
 omessi gli archi uscenti da ogni stato e diretti verso lo stato di RESET che vengono
 percorsi se il segnale i_rst viene posto a 1 indipendentemente dallo stato complessivo
