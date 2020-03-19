@@ -242,8 +242,7 @@ salvato
 
 ### 2.3 FSM
 
-![GitHub Logo](Screanshot(19).png)
-Format: ![Alt Text](url)
+![FSM GRAPH](https://github.com/EnricoGrazioli/Progetto-di-reti-logiche-2019/blob/master/Screenshot%20(19).png)
 
 
 Per rendere più chiaro il grafo rappresentante la macchina a stati finiti sono stati
